@@ -5,4 +5,4 @@ I'm a data scientist who enjoys MMA, politics, and teaching data science. I curr
 ## My Social Media Links :star::
 - My <a href="https://www.youtube.com/c/AndrewCouch/">YouTube Channel</a> :tv:
 - My <a href="https://www.linkedin.com/in/andrew-couch/">LinkedIn</a> :briefcase:
-- My <a href="https://twitter.com/andrewcouchnews">Twitter</a> :iphone:
+- My <a href="https://twitter.com/Andr3wCouch">Twitter</a> :iphone:
